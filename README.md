@@ -1,4 +1,4 @@
-# 👨‍💼 Profile: Data Analyst Aspirant 👩‍💼
+# 👨‍💼 Data Analyst Aspirant 👩‍💼
 
 Welcome to my data-driven journey! 👋
 
