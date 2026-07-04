@@ -10,7 +10,8 @@ Welcome to my data-driven journey! 👋
 
 ## 🎯 Career Objective
 
-As a passionate data analyst aspirant, I am dedicated to harnessing the power of data to drive informed decisions. My goal is to contribute my analytical skills to make a meaningful impact in the world of data science and analytics.
+Python Automation Engineer with expertise in Python, PyTest, REST API Testing, Selenium, Microsoft Playwright, and SQL. I enjoy solving automation challenges, building maintainable test frameworks, and sharing practical automation projects while continuously learning modern testing technologies.
+.
 
 ## 🌟 Skills
 
