@@ -1,11 +1,11 @@
-# 👨‍💼 Data Analyst Aspirant 👩‍💼
+# 👨‍💼 Python Automation Engineer 👩‍💼
 
 Welcome to my data-driven journey! 👋
 
 ## 📊 About Me
 
 - Name: [SIDHARTH RAJHANSA]
-- LinkedIn: [https://www.linkedin.com/in/sidharth-rajhansa-2a9b35270/]
+- LinkedIn: [https://www.linkedin.com/in/sidharth-rajhansa-7474a3131/]
 
 
 ## 🎯 Career Objective
@@ -14,14 +14,26 @@ As a passionate data analyst aspirant, I am dedicated to harnessing the power of
 
 ## 🌟 Skills
 
-- Data Analysis
-- Data Visualization
-- Statistical Analysis
-- Python, R
-- SQL
-- Excel
-- Machine Learning (in progress)
-- Data Cleaning and Preprocessing
+Python
+PyTest
+REST API Testing
+Selenium WebDriver
+Microsoft Playwright
+SQL
+Automation Framework
+Requests Library
+Jenkins
+Azure DevOps
+Git
+Postman
+Swagger
+JSON
+Page Object Model (POM)
+Functional Testing
+Regression Testing
+Smoke Testing
+Agile Scrum
+Jira
 
 ## 📚 Education
 
@@ -32,14 +44,8 @@ As a passionate data analyst aspirant, I am dedicated to harnessing the power of
 
 ### [Project 1 Title]
 
-- Description: [Brief description of the project]
-- Tools Used: [List the tools and technologies you used]
-- GitHub Repository: [Link to the GitHub repository]
-
-### [Project 2 Title]
-
-- Description: [Brief description of the project]
-- Tools Used: [List the tools and technologies you used]
+- Description: [Trank Technologies]
+- Tools Used: [Python,Pytest,Playwright,Github desktop,Jenkins]
 - GitHub Repository: [Link to the GitHub repository]
 
 ## 📖 Blog Posts
