@@ -38,8 +38,7 @@ Jira
 
 ## 📚 Education
 
-- [Your Degree] - [University Name] - [Graduation Year]
-- Relevant Courses: [List any relevant courses or certifications]
+- [BTech] - [BPUT] - [2013]
 
 ## 🚀 Projects
 
@@ -47,7 +46,7 @@ Jira
 
 - Description: [Trank Technologies]
 - Tools Used: [Python,Pytest,Playwright,Github desktop,Jenkins]
-- GitHub Repository: [Link to the GitHub repository]
+- GitHub Repository: [https://github.com/cloud-detox/Trank-Technology-Playwright]
 
 ## 📖 Blog Posts
 
